@@ -1,0 +1,5 @@
+package com.teacherapi.teacherapi.model;
+
+public class Teacher {
+
+}

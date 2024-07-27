@@ -1,0 +1,5 @@
+package com.schoolserver.schoolserver.model;
+
+public class Student {
+
+}

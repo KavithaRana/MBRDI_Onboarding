@@ -1,0 +1,5 @@
+package com.teacherapi.teacherapi.repository;
+
+public interface TeacherRepository {
+
+}

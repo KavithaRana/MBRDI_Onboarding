@@ -1,0 +1,5 @@
+package com.studentapi.studentapi.service;
+
+public class StudentService {
+
+}

@@ -1,0 +1,5 @@
+package com.teacherapi.teacherapi.service;
+
+public class TeacherService {
+
+}
